@@ -1,0 +1,228 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #d6e4ec; /* Softer blue */
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+    margin: 0 12px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #333; 
+    font-weight: normal;
+}
+
+/* Profile Section */
+.profile {
+    text-align: center;
+    margin: 20px 0;
+}
+.profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #d6e4ec;
+    object-fit: cover;
+}
+.profile input {
+    display: block;
+    margin: 8px auto;
+    padding: 4px;
+    width: auto;
+    border: none;
+    background: none;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000; /* Make text visible */
+}
+
+/* Content Section */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+}
+.box {
+    width: 75%;
+    padding: 15px;
+    border: 1px solid #d6e4ec;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+/* Subjects and Activities Section */
+.subjects,
+.activities {
+    width: 75%;
+    max-width: 700px;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    margin: 15px auto;
+}
+
+/* Search Bar */
+#searchBar {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    border: 1px solid #d6e4ec;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    display: block;
+    margin: 0 auto;
+    outline: none;
+    transition: 0.3s;
+}
+
+#searchBar:focus {
+    border-color: #4a90e2;
+    box-shadow: 0 0 5px rgba(74, 144, 226, 0.5);
+}
+
+/* Button Styling */
+#subjectsButton {
+    background: #4a90e2;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: normal;
+    transition: background 0.3s;
+    margin-top: 5px;
+}
+#subjectsButton:hover {
+    background: #357abf;
+}
+
+/* Activities Section */
+.activities h2 { 
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+/* Lab Buttons */
+.lab-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Lab Buttons Styling */
+.lab-button {
+    text-decoration: none;
+    background-color: #4a90e2;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 3px;
+    font-weight: normal;
+    transition: background 0.3s;
+    box-shadow: none;
+    font-size: 14px;
+}
+
+.lab-button:hover {
+    background-color: #357abf;
+}
+
+/* Table Container */
+.table-container {
+    width: 90%;
+    max-width: 700px;
+    margin: 20px auto;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+/* Table Header */
+.semester-header {
+    background-color: #d6e4ec;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Table */
+.subject-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    color: #444;
+}
+
+/* Table Rows */
+.subject-table tr {
+    border-bottom: 1px solid #ddd;
+}
+
+.subject-table td {
+    padding: 10px;
+}
+
+/* Subject Codes */
+.subject-code {
+    font-weight: 600;
+    color: #333;
+}
+
+/* Subject Titles */
+.subject-title {
+    color: #666;
+}
+
+/* Units */
+.subject-units {
+    font-style: italic;
+    color: #888;
+    text-align: right;
+}
+
+/* Hide/Show Subjects */
+.hidden {
+    display: none;
+}
+
+/* Hide Subjects Button */
+.hide-button {
+    display: block;
+    margin: 15px auto;
+    padding: 8px 12px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.hide-button:hover {
+    background-color: #c0392b;
+}

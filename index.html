@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Portfolio</a></li>
+        </ul>
+    </nav>
+
+    <header class="profile">
+        <img src="./media/prof.jpg" alt="Profile Image">
+        <input type="text" placeholder="Trisha May Pabillaran">
+        <input type="text" placeholder="BSIT - 3rd Year">
+    </header>
+
+    <section class="container">
+        <div class="box"><h2>About</h2></div>
+        <div class="box"><h2>Education</h2></div>
+    </section>
+
+    <input type="text" id="searchBar" placeholder="Search for a subject..." onkeyup="searchSubjects()">
+
+
+    <section class="subjects">
+        <h2>Subjects Taken</h2>
+        <div class="subjects-container">
+            <button id="subjectsButton" class="subject-btn">View Subjects</button>
+            <div id="subjectsContainer" class="hidden"></div> 
+        </div>
+    </section>
+    
+    
+    <section class="activities">
+        <h2>Activities</h2>
+        <div class="lab-container">
+            <a href="lab3.html" class="lab-button">Lab 3</a>
+            <a href="lab4.html" class="lab-button">Lab 4</a>
+        </div>
+    </section>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>
