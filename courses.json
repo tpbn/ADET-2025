@@ -1,0 +1,316 @@
+{
+  "courses": [
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "IT 111",
+      "description": "Introduction to Computing",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "IT 112",
+      "description": "Computer Programming 1",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "PurCom",
+      "description": "Purposive Communication",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "RPH",
+      "description": "Readings in Philippine History",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "TCW",
+      "description": "The Contemporary World",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "MMW",
+      "description": "Mathematics in the Modern World",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "PATHFIT 1",
+      "description": "Movement Competency Training (MCT)",
+      "credit": "2.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "1st Semester",
+      "code": "NSTP 101b",
+      "description": "CWTS I",
+      "credit": "3.0"
+    },
+
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "IT 121",
+      "description": "Computer Programming 2",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "IT 122",
+      "description": "Data Structures and Algorithms",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "IT 123",
+      "description": "Discrete Mathematics",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "ArtApp",
+      "description": "Art Appreciation",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "UTS",
+      "description": "Understanding the Self",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "STS",
+      "description": "Science, Technology and Society",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "PATHFIT 2",
+      "description": "Exercise-based Fitness Activities",
+      "credit": "2.0"
+    },
+    {
+      "year_level": "1st Year",
+      "sem": "2nd Semester",
+      "code": "NSTP 102b",
+      "description": "CWTS II",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "1st Semester",
+      "code": "IT 211",
+      "description": "Intro to Human Computer Interaction",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "1st Semester",
+      "code": "IT 212",
+      "description": "Fundamentals of Database Systems",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "1st Semester",
+      "code": "IT 213",
+      "description": "Platform Technologies",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "1st Semester",
+      "code": "IT 214",
+      "description": "Object Oriented Programming",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "1st Semester",
+      "code": "IT 215",
+      "description": "Accounting Principles",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "1st Semester",
+      "code": "EnviSci",
+      "description": "Environmental Science",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "1st Semester",
+      "code": "PATHFIT 3",
+      "description": "Physical Activity Towards Health and Fitness 3",
+      "credit": "2.0"
+    },
+
+    {
+      "year_level": "2nd Year",
+      "sem": "2nd Semester",
+      "code": "IT 221",
+      "description": "Information Management",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "2nd Semester",
+      "code": "IT 222",
+      "description": "Networking 1",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "2nd Semester",
+      "code": "IT 223",
+      "description": "Web Systems and Technologies",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "2nd Semester",
+      "code": "IT 224",
+      "description": "Systems Integration and Architecture 1",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "2nd Semester",
+      "code": "Ethc",
+      "description": "Ethics",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "2nd Semester",
+      "code": "Rizal",
+      "description": "Life and Works of Rizal",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "2nd Year",
+      "sem": "2nd Semester",
+      "code": "PATHFIT 4",
+      "description": "Life and Works of Rizal",
+      "credit": "2.0"
+    },
+
+    {
+      "year_level": "3rd Year",
+      "sem": "1st Semester",
+      "code": "IT 311",
+      "description": "Information Assurance and Security",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "1st Semester",
+      "code": "IT 312",
+      "description": "Networking 2",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "1st Semester",
+      "code": "IT 313",
+      "description": "Mobile Programming",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "1st Semester",
+      "code": "IT 314",
+      "description": "Software Engineering",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "1st Semester",
+      "code": "IT 315",
+      "description": "IT Elective 1",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "1st Semester",
+      "code": "ES 211a",
+      "description": "Technopreneurship",
+      "credit": "3.0"
+    },
+
+    {
+      "year_level": "3rd Year",
+      "sem": "2nd Semester",
+      "code": "IT 321",
+      "description": "CAPSTONE Project and Research 1",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "2nd Semester",
+      "code": "IT 322",
+      "description": "Integrative Programming and Technologies",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "2nd Semester",
+      "code": "IT 323",
+      "description": "Applications Development and Emerging Technologies",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "2nd Semester",
+      "code": "IT 324",
+      "description": "Quantitative Methods",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "2nd Semester",
+      "code": "IT 325",
+      "description": "IT Elective 2",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "2nd Semester",
+      "code": "PICPE",
+      "description": "Philippine Indigenous Communities and Peace Education",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "3rd Year",
+      "sem": "2nd Semester",
+      "code": "FreeElec",
+      "description": "Foreign Language",
+      "credit": "3.0"
+    },
+    {
+      "year_level": "4th Year",
+      "sem": "1st Semester",
+      "code": "GnS",
+      "description": "Gender and Society",
+      "credit": "3.0"
+    }
+  ]
+}
